@@ -7,4 +7,4 @@ It demonstrates repository creation, branching, pull requests, issues, and colla
 This practical demonstrates repository creation, branching, pull requests,
 issue management, and collaboration using GitHub.
 
-User Name : Hemang & Mann
+User Name : Hemang Lakhadiya & Mann Bhatasana
